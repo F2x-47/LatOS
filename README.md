@@ -1,4 +1,4 @@
-# _LatOS_
+# LatOS
 Discover a simple code on Python to execute commands.
 
 ### How to use it?
